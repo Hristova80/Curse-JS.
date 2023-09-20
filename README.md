@@ -1,0 +1,2 @@
+# Curse-JS.
+My education
