@@ -11,4 +11,3 @@ function yardGreening(input) {
     console.log(`The discount is: ${ discountMoney} lv.`);
 }
 yardGreening([550]);
-//predadena
